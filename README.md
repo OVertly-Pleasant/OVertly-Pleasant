@@ -15,4 +15,3 @@ I specialize in **Python** and **C++**, with a heavy focus on data pipelines, al
 ### 📚 Beyond the Code:
 When I'm not tracing bugs or optimizing graph algorithms, I am usually studying human psychology, practicing my French (*Bonjour!*), or reading classic literature like *The Count of Monte Cristo*. I believe that understanding people is just as important as understanding machines.
 
-📫 **Let's connect:** Reach out to me on [LinkedIn](https://www.linkedin.com/in/aditya-shankar-11641a411/)!
